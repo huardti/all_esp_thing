@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/thuard/Documents/esp32/MQTT_temp_hum/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

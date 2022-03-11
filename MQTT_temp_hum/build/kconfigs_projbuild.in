@@ -1,0 +1,6 @@
+source "/home/thuard/Documents/esp32/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/thuard/Documents/esp32/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/thuard/Documents/esp32/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "/home/thuard/Documents/esp32/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/thuard/Documents/esp32/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/thuard/Documents/esp32/MQTT_temp_hum/components/arduino/Kconfig.projbuild"
